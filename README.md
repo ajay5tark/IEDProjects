@@ -4,8 +4,11 @@ My IED projects
 Arduino Files of all the projects with particle photon files(if used).
 
 Project 1 : https://sites.google.com/view/noice-ied/projects/project-1  
+- Made a automatic pet feeder which can feed your pet at given times and intervals. You can also select the amount of food given to the pet.
 Project 2 : https://sites.google.com/view/noice-ied/projects/project-2  
+- Made an automatic Door which opened up using wifi and also using RFID. 
 Project 3 : https://sites.google.com/view/team36/home  
+- Made a smart watch which could also monitor your heart rate.
 
 # Android Game
 Android apk and mit app inventor file (Android Game)
