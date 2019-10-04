@@ -7,8 +7,8 @@ const int LEDfood=12;
 const int LEDempty = 13;
 const int irPin = 8;  // This is our input pin
 int isEmpty = LOW;  // LOW MEANS CONTAINER IS FILLED
-int Data=0;
-int buzzer=5;
+int Data=0; //Data input
+int buzzer=5; //buzzer pin
 SoftwareSerial mySerial(11,10); // Bluetooth module tx rx
 
 void setup() {
